@@ -5,6 +5,7 @@ namespace MediaBundle\Controller;
 use MediaBundle\Entity\Album;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 
 /**
  * Album controller.
