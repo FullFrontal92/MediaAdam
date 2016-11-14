@@ -3,3 +3,6 @@ media_album:
     prefix:   /
 
 
+media_commentaire:
+        resource: "@MediaBundle/Resources/config/routing/commentaire.yml"
+        prefix:   /commentaire
